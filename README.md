@@ -1,2 +1,4 @@
 # Hospicare--Django-project
-Hospicare is a real-time platform developed during a hackathon to address the challenge of locating hospital beds in emergencies. 
+In emergencies, every second counts, and having real-time access to hospital bed availability can be the difference between life and death. This tool ensures critical time is saved, helping patients get the care they need without delay.
+
+Hospicare is a real-time platform developed during a hackathon to address the challenge of locating hospital beds in emergencies.It shows real-time updates on available hospital beds and on-duty doctors in hospitals in your city or area. With an easy-to-use search feature users can find the nearest hospital that fits their needs. Whether it’s for affordability, proximity, or specific medical care, this platform makes the stressful process of finding a hospital bed much simpler and faster, potentially saving lives when every second counts.
